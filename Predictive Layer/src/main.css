@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-primary);
+}
+
+.card-bg {
+  outline-style: solid;
+  outline-color: black;
+  background-color: whitesmoke;
+}
+
+.indicator-success {
+  color: green;
+}
+
+.indicator-failure {
+  color: red;
+}
+
+.indicator-warning {
+  color: orange;
+}
+
+.floatright {
+  float: right;
+}
+
+.red-bg {
+  background-color: lightcoral;
+}
+
+.green-bg {
+  background-color: lightgreen;
+}
